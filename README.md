@@ -1,2 +1,2 @@
 # brutality
-A brute-force password cracker
+A brute-force password cracker 
